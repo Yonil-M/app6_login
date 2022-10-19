@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.greenAccent,
+        backgroundColor: Color.fromARGB(255, 105, 231, 240),
         body:Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
